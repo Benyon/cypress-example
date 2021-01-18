@@ -16,6 +16,8 @@ A vanilla Cypress project testing the functionality of 'The Internet Herokup App
 2. Navigate to the root of the repo
 3. Use the `npm install` command
 
+If there are any issues running Cypress regarding missing libraries or dependacies, you can try running the command `.\node_modules\.bin\cypress.cmd install`.
+
 ## Running tests
 
 You can run tests by executing `npm run cypress` commands in command prompt which will open the cypress interface, which will allow you to browse existing tests.
