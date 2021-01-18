@@ -20,4 +20,4 @@ If there are any issues running Cypress regarding missing libraries or dependaci
 
 ## Running tests
 
-You can run tests by executing `npm run cypress` or `npx cypress open` commands in command prompt which will open the cypress interface, which will allow you to browse existing tests.
+You can run tests by executing `npm run cypress` or `npx cypress open` commands in your prefered CLI which will open the cypress interface, allwoing you to browse existing tests.
