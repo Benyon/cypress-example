@@ -15,8 +15,7 @@ A vanilla Cypress project testing the functionality of 'The Internet Herokup App
 1. Make sure [Node.js](https://nodejs.org/) is installed
 2. Navigate to the root of the repo
 3. Use the `npm install` command
-
-If there are any issues running Cypress regarding missing libraries or dependacies, you can try running `npx cypress install --force`
+3. Use the `npm run cypress-install` command
 
 ## Running tests
 

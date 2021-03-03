@@ -3,9 +3,10 @@
   "version": "1.0.0",
   "description": "Cypress Example Project",
   "scripts": {
+    "install": "npx cypress install --force",
     "cypress": "npx cypress open"
   },
-  "author": "DeeperThanBlue",
+  "author": "Jordan Benyon",
   "license": "MIT",
   "dependencies": {
     "cypress": "^6.1.0"
